@@ -56,7 +56,7 @@ urlpatterns = [
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("<h1>This is django</h1>")`
+    return HttpResponse("This is django")`
     
 ## in the terminal migrate django again
    ` python3 manage.py migrate`
