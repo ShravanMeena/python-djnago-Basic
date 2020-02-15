@@ -1,7 +1,7 @@
 # python-djnago-Basic-guide
 
 ## create virtual-environment:
-`python3 -m virtualenve <>venv/env<>`
+`python3 -m virtualenv <>venv/env<>`
 
 ## activate virtualenve
   `source venv/bin/activate`
